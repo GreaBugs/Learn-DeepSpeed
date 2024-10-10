@@ -1,3 +1,6 @@
 [submodule "DeepSpeedExamples"]
 	path = DeepSpeedExamples
 	url = https://github.com/GreaBugs/Learn-DeepSpeedExamples.git
+[submodule "opt-1.3B"]
+	path = opt-1.3B
+	url = https://github.com/GreaBugs/Learn-DeepSpeed-opt-1.3b.git

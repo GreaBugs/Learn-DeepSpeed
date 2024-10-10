@@ -13,3 +13,13 @@ pip install -r requirements.txt
 cd DeepSpeedExamples/applications/DeepSpeed-Chat
 python e2e_rlhf.py --actor-model facebook/opt-13b --reward-model facebook/opt-350m --deployment-type single_node
 ```
+
+### 官方提供预训练权重
+[预训练模型](https://huggingface.co/facebook/opt-1.3b)
+
+### Debug步骤
+1. 模型训练
+
+2. 模型评测
+
+3. 
