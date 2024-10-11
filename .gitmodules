@@ -4,3 +4,9 @@
 [submodule "opt-1.3B"]
 	path = opt-1.3B
 	url = https://github.com/GreaBugs/Learn-DeepSpeed-opt-1.3b.git
+[submodule "dataset"]
+	path = dataset
+	url = https://github.com/GreaBugs/Learn-DeepSpeed-Datasets.git
+[submodule "Dataset"]
+	path = Dataset
+	url = https://github.com/GreaBugs/Learn-DeepSpeed-Datasets.git
